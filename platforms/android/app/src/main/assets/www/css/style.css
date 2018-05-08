@@ -1,0 +1,19 @@
+
+body {
+  background-color: black;
+
+}
+
+#response {
+  color: white;
+}
+#response2{
+  color: white;
+}
+
+#beyourself {
+  height: 40px;
+  position: fixed;
+  bottom: 0%;
+  width: 100%;
+}
